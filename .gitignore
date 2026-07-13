@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
